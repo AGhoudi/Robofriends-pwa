@@ -4,14 +4,12 @@ jobs:
     docker:
       - image: alpine:3.7
     steps:
-      -checkout
       - run: npm install
       - run: CI=true npm run build
   test:
     docker:
       - image: alpine:3.7
     steps:
-      -checkout
       - run: npm install
       - run: npm test
 workflows:
