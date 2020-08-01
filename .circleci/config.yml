@@ -2,13 +2,13 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: node:12.16.0
+      - image: circleci/node:12.16.0
     steps:
       - run: npm install
       - run: CI=true npm run build
   test:
     docker:
-      - image: node:12.16.0
+      - image: circleci/node:12.16.0
     steps:
       - run: npm install
       - run: npm test
