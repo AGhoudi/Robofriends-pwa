@@ -1,7 +1,3 @@
-
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
