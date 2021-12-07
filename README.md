@@ -17,6 +17,6 @@ Celle ci m'a permis de travailler sur du react et les progressive web app.</br>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester l'application:
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+  <a title="https://aghoudi.github.io/Robofriends-pwa/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/Robofriends-pwa/">https://aghoudi.github.io/Robofriends-pwa/</a></p>
