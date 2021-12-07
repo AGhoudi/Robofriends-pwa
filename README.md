@@ -13,7 +13,7 @@ Celle ci m'a permis de travailler sur du react et les progressive web app.</br>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript</p>
+<p align=center>HTML - CSS - Javascript - React - PWA</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
